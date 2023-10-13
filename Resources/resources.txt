@@ -7,8 +7,6 @@ Apps:
   Duolingo
   Rosetta Stone
 
-Books:
-
 Youtube Videos:
   Learn English with EnglishClass101.com
 
