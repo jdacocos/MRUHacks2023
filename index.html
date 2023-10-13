@@ -1,23 +1,98 @@
 <!DOCTYPE html>
+<html>
 
-<html> 
-
-<head> 
-     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, intial-scale=1">
-    
-    <title> Crossing Cultures </title>
-
-
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Crossing Cultures </title> 
+    <link rel="stylesheet" href="style.css"> 
 </head>
 
-<body> 
-
-
-
+<body>
+    <header>
+        <img src="https://cdn.discordapp.com/attachments/1161469151525752933/1162502265714790540/image.png?ex=653c2b9a&is=6529b69a&hm=b1a11c9bf9e603de06995649c9e04ca8d4a705bcef14b24ce0ce91aff012f924&" 
+        alt="Crossing Cultures"
+        width="250"
+        height="250">
+        <h1>Crossing Cultures (MRU Chapter)</h1>
+        <button type="button">Change Language to Arabic</button>
+    </header>
 </body>
 
+    <section class="content">
+        <div class="flex-container">
+            <div class="text">
+                <p>No matter your background, immigration into Canada is a difficult procedure. At Crossing Cultures, our goal is to make that process easier for you! We'll show you the cultural etiquettes, direct you to support communities, and provide resources to help your transition.</p>
+            </div>
+            <div class="image">
+                <img src="https://img.freepik.com/premium-photo/close-up-young-people-smiling_23-2148431315.jpg" alt="Smiling people">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="column"></div>
+            <div class="column"></div>
+          </div>
+          
+
+          .column {
+            float: left;
+            width: 50%;
+            padding: 10px;
+          }
+            
+          .row:after {
+            content: "";
+            display: table;
+            clear: both;
+          }
+        
+        <!-- Trying to make buttons for quick access-->        
+        <div class="topnav">
+        <a href="#">Cultural Guides</a>
+        <a href="#">Finding communities</a>
+        </div>
+
+        <div class="section-heading">
+            <h2>Cultural Guides</h2>
+        </div>
+        <div class="text">
+            <p> Insert Text here</p>
+        </div>
+
+        <div class="section-heading">
+            <h2>Finding Communities</h2>
+        </div>
+        <div class="text">
+            <p>In order to make you feel comfortable in this new environment, we have gathered some useful resources to help you find support from similar communities. Check out the International Student Support Centre (ISSC) or the International Student Club!</p>
+        </div>
+
+        <div class="section-heading">
+            <h2>Language Learning Tools</h2>
+        </div>
+
+        <div class="chat-popup" id="myForm">
+            <form action="/action_page.php" class="form-container">
+              <h1>Chat</h1>
+          
+              <label for="msg"><b>Message</b></label>
+              <textarea placeholder="Type message.." name="msg" required></textarea>
+          
+              <button type="submit" class="btn">Send</button>
+              <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+            </form>
+          </div>
+          
+        <div class="text">
+            <h3>Apps</h3>
+            <ul>
+                <li><a href="https://www.duolingo.com/learn" target="_blank">Duolingo</a> (Free)</li>
+                <li><a href="https://www.rosettastone.com/buy/learn-english/" target="_blank">Rosetta Stone</a> (Paid)</li>
+            </ul>
+
+            <h3>Video Course</h3>
+        </div>
+    </section>
+</body>
 
 </html>
-
-
