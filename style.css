@@ -4,9 +4,16 @@ body{
 }
 
 h1{ 
+
     font-family: 'Times New Roman', Times, serif;
     font-size: 100px;
-    font-style: italic;
+    font-style: italic;  
+
+    border-style: groove;
+    border-color: black;
+    border-width: 10px;
+    border-radius: 20px;
+    padding: 20px;
 } 
 
 h2{ 
@@ -99,6 +106,25 @@ button{
   opacity: 1;
 } 
 
-img{ 
-    margin-top: 200px;
+.header-content {
+  display: flex;
+  align-items: center; 
+}
+
+header img {
+  max-width: 100%; 
+  margin-right: 20px; 
+  margin-top: 15px;
+}
+
+header h1 {
+  margin: 0; 
+}
+
+.title-container {
+  white-space: nowrap;
+}
+
+.move-right {
+  float: right;
 }
