@@ -14,5 +14,5 @@ Introduces some available support centers at Mount Royal University (MRU) such a
 
 ### Language Learning Tools
 
-This section compiles several difference help tools for language purposes. A YouTube video is included that assists with learning the English language, additionally, there are some resources including Duolingo, and Rosetta Stone.
+This section compiles several different help tools for language purposes. A YouTube video is included that assists with learning the English language, additionally, there are some resources including Duolingo, and Rosetta Stone.
 A chat box is included to assist with queries the individual may have, it can translate between some Arabic and English words/sentences.
