@@ -10,7 +10,7 @@ Provides a mini Google Maps of nearby religious places. This section introduces 
 
 ### Finding Communities
 
-Introduces some available support centers at Mount Royal University (MRU) such as the International Student Support Centre (ISSC) and the International Student CLub.
+Introduces some available support centers at Mount Royal University (MRU) such as the International Student Support Centre (ISSC) and the International Student Club.
 
 ### Language Learning Tools
 
