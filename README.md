@@ -4,7 +4,7 @@ Crossing Cultures is a website that assists immigrants with their immigration tr
 
 ## Files
 
-An .html file has been provided as the main link to the website and a .css file has also been included that supports some functions of the .html file. A resources folder contains some of the resources used to create this website, this includes the logo designs and the resources (and some citations) for this project.
+An .html file has been provided as the main link to the website and a .css file has also been included that supports some functions of the .html file. A resources folder contains some of the resources used to create this website, this includes the logo designs and the resources (and some citations) for this project. This README.md file debriefs and explains some of the general functions of the website.
 
 ## Features
 
