@@ -8,7 +8,7 @@ An .html file has been provided as the main link to the website and a .css file 
 
 ## Features
 
-### Cultural Guides
+### Cultural Guides 
 
 Provides a mini Google Maps of nearby religious places. This section introduces some cultural norms one might experience upon arriving in Canada.
 
