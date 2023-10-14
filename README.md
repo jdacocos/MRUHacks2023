@@ -1,6 +1,6 @@
 # Crossing Cultures
 
-Crossing Cultures is a website that assists immigrants with their immigration transition by providing useful translations and helpful resources. This websit has compiled several support and information systems that may be relevant to the user.
+Crossing Cultures is a website that assists immigrants with their immigration transition by providing useful translations and helpful resources. This website has compiled several support and information systems that may be relevant to the user.
 
 ## Features
 
